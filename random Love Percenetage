@@ -1,0 +1,5 @@
+prompt("what is your name ");
+prompt("what is her bname ");
+var rad=Math.random() * 100 ;
+rad= Math.floor(rad);
+alert(rad);
